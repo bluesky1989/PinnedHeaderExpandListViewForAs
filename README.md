@@ -1,1 +1,1 @@
-自定义StickyLayout和ExpandableListView解决纵向滑动冲突问题,可在android studio上运行
+继承LinearLayout自定义StickyLayout、继承ExpandableListView自定义PinnedHeaderExpandListView解决纵向滑动冲突问题实现纵向双滑动效果,可在android studio上运行
